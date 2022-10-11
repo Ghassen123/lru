@@ -13,7 +13,7 @@ from the sequence.
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.  
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
@@ -42,7 +42,7 @@ END INPUT
 1. Clone the repo
 
 ```  
-git clone []  
+git clone https://github.com/Ghassen123/lru.git  
 ```  
 
 2. Create Input file based on the following template or change the input.txt file in the input files directory:

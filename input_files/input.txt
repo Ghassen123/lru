@@ -1,0 +1,6 @@
+Input:
+capacity = 2
+query_type = [SET, SET, GET, SET, GET, SET, GET]
+keys = [5, 10, 5, 15, 10, 5, 5]
+values = [11, 22, 1, 33, 1, 55, 1]
+END INPUT
